@@ -26,7 +26,7 @@ All work is in a single notebook, `220700T_a02.ipynb`. The graded submission is 
 
 **On Colab (recommended)**
 
-1. Upload `your_index_a02.ipynb` at colab.research.google.com.
+1. Upload `220700T_a02.ipynb` at colab.research.google.com.
 2. Runtime → Change runtime type → **T4 GPU**.
 3. Run all cells from top to bottom. CIFAR-10 downloads automatically (about 170 MB).
 
@@ -37,7 +37,7 @@ pip install torch torchvision numpy pandas matplotlib jupyter
 jupyter notebook your_index_a02.ipynb
 ```
 
-Running everything takes a few hours on a T4. Task 3(b) and Task 4 are the longest. A GPU is strongly recommended; on CPU only Tasks 1 and 2(a)/(b) are practical.
+Running everything takes a few hours on a T4. Task 3(b) and Task 4 are the longest. A GPU is strongly recommended; on CPU only, Tasks 1 and 2(a)/(b) are practical.
 
 ## Repository layout
 
