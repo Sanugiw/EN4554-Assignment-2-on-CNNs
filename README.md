@@ -4,7 +4,7 @@
 **Index number:** `220700T`
 **Course:** EN4554, Assignment 2 (CNNs), set by Dr. Ranga Rodrigo
 
-All work is in a single notebook, `your_index_a02.ipynb`. Submit the PDF export, `220700T_a02.pdf`.
+All work is in a single notebook, `220700T_a02.ipynb`. 
 
 ## Contents
 
