@@ -13,7 +13,7 @@ All work is in a single notebook, `220700T_a02.ipynb`. The graded submission is 
 | **1. Backpropagation** | Hand-written Linear, ReLU, Sigmoid, and softmax cross-entropy with explicit forward/backward (no autograd), assembled into an MLP. Gradient checks against autograd and centred finite differences. Training on flattened CIFAR-10. Per-layer gradient norms of a 10-layer MLP (sigmoid vs ReLU). |
 | **2. Optimizers** | `torch.optim.Optimizer` subclasses for SGD with momentum and Adam (with bias correction), verified against `torch.optim`. Trajectories on f(x, y) = 0.5(x² + 50y²). Learning-rate sensitivity of SGD, SGD+momentum and Adam on a small CNN. |
 | **3. Regularization and residual connections** | Baseline, weight decay, dropout, flip+crop, cutout, mixup and all combined, on 5k training images (cutout and mixup implemented from scratch). Plain vs residual CIFAR networks of depth 8, 20 and 56 (6n+2). |
-| **4. Best CNN (optional)** | Residual CNN with at most 500k parameters and 20 epochs, tuned on the validation split, with an ablation and a single test-set evaluation. |
+| **4. Best CNN** | Residual CNN with at most 500k parameters and 20 epochs, tuned on the validation split, with an ablation and a single test-set evaluation. |
 
 ## Setup used
 
