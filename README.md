@@ -43,8 +43,8 @@ Running everything takes a few hours on a T4. Task 3(b) and Task 4 are the longe
 
 ```
 .
-├── your_index_a02.ipynb   # the notebook (code, plots, interpretations)
-├── your_index_a02.pdf     # exported report for grading
+├── 220700T_a02.ipynb   # the notebook (code, plots, interpretations)
+├── 220700T_a02.pdf     # exported report for grading
 └── README.md
 ```
 
