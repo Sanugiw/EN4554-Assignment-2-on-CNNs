@@ -34,7 +34,7 @@ All work is in a single notebook, `220700T_a02.ipynb`. The graded submission is 
 
 ```bash
 pip install torch torchvision numpy pandas matplotlib jupyter
-jupyter notebook your_index_a02.ipynb
+jupyter notebook 220700T_a02.ipynb
 ```
 
 Running everything takes a few hours on a T4. Task 3(b) and Task 4 are the longest. A GPU is strongly recommended; on CPU only, Tasks 1 and 2(a)/(b) are practical.
